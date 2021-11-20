@@ -1,2 +1,2 @@
-# codiemate.github.io
+# codiemate
 My first pet project
